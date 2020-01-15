@@ -1,6 +1,6 @@
 # Lightning Components for List View Custom Actions
 
-Salesforce's List views are a powerful too to help users organize and navigate to records. Unfortunately, the only actions they support are the standard Edit Delete, and Change Owner.
+Salesforce's List views are a powerful tool to help users organize and navigate to records. Unfortunately, the only actions they support are the standard Edit Delete, and Change Owner.
 While it is impossible to add actions to this list, we can be clever and expose custom actions using Formula Fields and Lightning Components.
 
 ## Step 1: Create Lightning Component
