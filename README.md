@@ -20,4 +20,4 @@ Add this formula field to a list view. Typically you would want to put this in t
 
 Now you can do whatever you need to do with your component and the record Id passed to it - in this scenario, we are just logging it to the console.
 
-![List View Actions]("demo/List_View_Actions.gif")
+![List View Actions]("demo/List View Actions.gif")
